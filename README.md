@@ -18,19 +18,19 @@
 ### ⚡ Interactive Features
 
 #### 👀 Visitor Counter
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=paraschauhan.paraschauhan)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Paras1Chauhan.Paras1Chauhan)
 
 #### 💬 Typing Animation
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hey+I'm+Paras!;Software+Engineer;AI+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
 
 #### 🧭 3D Contribution Graph
-![3D Graph](https://github.com/paraschauhan/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg)
+![3D Graph](https://github.com/Paras1Chauhan/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg)
 
 ---
 
 ### 📊 GitHub Stats
-![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=paraschauhan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paraschauhan&layout=compact&theme=radical)
+![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras1Chauhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paras1Chauhan&layout=compact&theme=radical)
 
 ---
 
@@ -42,8 +42,8 @@
 ---
 
 ### 💬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ParasChauhan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ParasChauhan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/paras1chauhan)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://paraschauhan.vercel.app)
 
 ---
 
