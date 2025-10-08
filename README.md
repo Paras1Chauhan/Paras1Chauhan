@@ -32,6 +32,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ParasChauhan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/paraschauhan0511)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hey+I'm+Paras!;Software+Engineer;AI+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
+
+
 ---
 
 ✨ *“Code. Learn. Improve. Repeat.”*
