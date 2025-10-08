@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @Paras1Chauhan
-- 👀 I’m interested in software developer..
-- 🌱 I’m currently learning .data structure with c++..
-- 💞️ I’m looking to collaborate on .faang company..
-- 📫 How to reach me ...
+# 👋 Hey there, I'm Paras Chauhan  
 
-<!---
-Paras1Chauhan/Paras1Chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Aspiring Software Engineer | Passionate about AI & Product-Based Development**  
+
+💡 I love solving DSA problems, building backend systems with Node.js & Laravel, and exploring AI.
+
+---
+
+### 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Backend-Laravel-red?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Frontend-Vue.js-brightgreen?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=paraschauhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paraschauhan&layout=compact&theme=radical)
+
+---
+
+### 🧠 Currently Learning
+- Advanced AI concepts 🤖  
+- Backend Scalability ⚙️  
+- Building Interactive Dashboards with Vue.js  
+
+---
+
+### 💬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ParasChauhan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/paraschauhan0511)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
+
+---
+
+✨ *“Code. Learn. Improve. Repeat.”*
+
