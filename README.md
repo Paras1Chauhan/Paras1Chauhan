@@ -43,7 +43,7 @@
 
 ### 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ParasChauhan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/paras1chauhan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)](https://paraschauhan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=google-chrome)]()
 
 ---
 
