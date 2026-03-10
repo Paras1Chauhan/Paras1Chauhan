@@ -111,7 +111,7 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraschauhan0511)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paras1Chauhan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraschauhan05112001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraschauhan05112001@email.com)
 
 </div>
 
@@ -126,3 +126,4 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
