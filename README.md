@@ -76,7 +76,7 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Paras1Chauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Paras1Chauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -104,7 +104,7 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraschauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraschauhan0511)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paras1Chauhan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraschauhan05112001@email.com)
 
