@@ -59,25 +59,29 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paras1Chauhan&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Paras1Chauhan&theme=tokyonight" height="170"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras1Chauhan&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paras1Chauhan&theme=tokyonight" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paras1Chauhan&theme=tokyonight&utcOffset=5.5" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paras1Chauhan&theme=tokyonight" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paras1Chauhan&theme=tokyonight" width="100%"/>
 
 </div>
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Paras1Chauhan&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Paras1Chauhan&theme=tokyonight&margin-w=8&column=6"/>
 
 </div>
 
@@ -107,7 +111,7 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paraschauhan0511)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paras1Chauhan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraschauhan05112001@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraschauhan05112001@gmail.com)
 
 </div>
 
