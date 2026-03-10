@@ -59,8 +59,9 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paras1Chauhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras1Chauhan&layout=compact&theme=tokyonight&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paras1Chauhan&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paras1Chauhan&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
@@ -76,7 +77,7 @@ fun_fact: "I turn coffee into scalable backend code ☕"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Paras1Chauhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Paras1Chauhan&theme=tokyonight&margin-w=8&column=6"/>
 
 </div>
 
